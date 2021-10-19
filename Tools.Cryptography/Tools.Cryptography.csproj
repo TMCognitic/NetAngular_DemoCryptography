@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <LangVersion>9.0</LangVersion>
+    <Version>1.0.1</Version>
+    <Authors>Morre Thierry</Authors>
+    <Company>Cognitic</Company>
+    <Description>Outil permettant un cryptage RSA et Un Hashage des données</Description>
+    <Copyright>Morre Thierry 2021</Copyright>
+  </PropertyGroup>
+
+</Project>
